@@ -1,2 +1,2 @@
 # eVoting
-eVoting Platform (2021 Redevelop)
+eVoting Platform ~ CI (2021 Redevelop)
